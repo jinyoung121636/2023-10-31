@@ -2,6 +2,10 @@ package com.ll;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        System.out.println("안녕하세요");
+        System.out.println("반갑습니다");
+        System.out.println("작업2");
+        System.out.println("작업3");
     }
 }
